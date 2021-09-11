@@ -138,6 +138,7 @@ public  class Oblig1{
         }
 
     return indeks;
+        System.out.println("");
 
     }
 }
